@@ -2,6 +2,8 @@
 
 An Arduino library to talk to Home Assistant using [Rest API](https://www.home-assistant.io/developers/rest_api/) made for ESP8266.
 
+This is forked from debsahu's repo to add some compile-time statements to allow me to not use _ssl. 
+
 [![HARestAPI](https://img.youtube.com/vi/XV_X3e7xwDE/0.jpg)](https://www.youtube.com/watch?v=XV_X3e7xwDE)
 
 
